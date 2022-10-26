@@ -1,0 +1,78 @@
+name: movieapp
+description: movie app description
+
+version: 1.0.0+1
+
+environment:
+  sdk: '>=2.16.0 <3.0.0'
+
+scripts:
+  build: flutter packages pub run build_runner build --delete-conflicting-outputs
+  watch: flutter packages pub run build_runner watch --delete-conflicting-outputs
+
+dependencies:
+  flutter:
+    sdk: flutter
+  flutter_localizations:
+    sdk: flutter
+
+  stacked: ^2.1.4
+  shared_preferences: ^2.0.7
+  connectivity: ^3.0.3
+  get_it: ^7.2.0
+  dio: ^4.0.0
+  flutter_svg: ^1.0.3
+  intl: ^0.17.0
+  auto_route: ^3.2.4
+  path_provider: ^2.0.1
+  built_value: ^8.0.6
+  infinite_scroll_pagination: ^3.0.1
+  flutter_rating_bar: ^4.0.1
+  carousel_slider: ^4.1.1
+  image_picker: ^0.8.5+3
+  provider: ^6.0.3
+  cached_network_image: ^3.2.1
+  getwidget: ^3.0.1
+  flutter_secure_storage: ^6.0.0
+dev_dependencies:
+  analyzer: ^3.3.1
+  flutter_lints: ^1.0.3
+  flutter_launcher_icons: ^0.9.0
+  built_value_generator: ^8.0.4
+  auto_route_generator: ^3.2.3
+  build_runner: ^2.1.7
+  build_runner_core: ^7.2.3
+  logger: ^1.0.0
+
+
+flutter_icons:
+  android: "ic_launcher"
+  ios: true
+  remove_alpha_ios: true
+  image_path_android: "assets/images/logo_ios.png"
+  image_path_ios: "assets/images/logo_ios.png"
+
+# For information on the generic Dart part of this file, see the
+# following page: https://dart.dev/tools/pub/pubspec
+# The following section is specific to Flutter.
+flutter:
+  # The following line ensures that the Material Icons font is
+  # included with your application, so that you can use the icons in
+  # the material Icons class.
+  generate: true
+  uses-material-design: true
+  assets:
+    - assets/fonts/
+    - assets/images/red_heart_icon.png
+    - assets/images/social_icons/
+ 
+  fonts:
+    - family: Tajawal
+      fonts:
+        - asset: assets/fonts/Tajawal-Regular.ttf
+
+
+flutter_intl:
+  enabled: true # Required. Must be set to true to activate the plugin. Default: false
+  main_locale: ar
+  class_name: AppLocalizations # Optional. Sets the name for the generated localization class. Default: S

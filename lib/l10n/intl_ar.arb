@@ -1,0 +1,65 @@
+{
+  "@@locale": "ar",
+  "pageHomeTitle": "مرحباً {firstName}",
+  "@pageHomeTitle": {
+    "description": "هذا فقط مجرد مثال لشرح قدرة الترجمة على وضع نصوصو بديلة ",
+    "placeholders": {
+      "firstName": {}
+    }
+  },
+  "home_view":"الرئيسية",
+  "main_view_home": "الاخبارالاخبار",
+  "main_view_movies": "الافلام",
+  "main_view_actors": "الفنانيين",
+  "main_view_profile": "الملف الشخصي",
+
+  "about_app": "عن التطبيق",
+  "settings": "الضبط",
+  "version": "النسخة",
+  "about_developers": "عن المبرمجين",
+  "sadeem_tech_co": "شركة سديم التقنية",
+  "empty_list": "قائمة فارغة",
+
+  "exception_indicator_try_again": "المحاولة مرة أخرى",
+  "generic_error_indicator_error_while_fetching_data": "حدث خطأاثناء جلب البيانات",
+  "settings_view_notification": "الاشعارات",
+  "settings_view_about": "عن التطبيق",
+
+  "no_connection_indicator_no_connection": "لا يوجد اتصال",
+  "no_connection_indicator_try_again_later": "الرجاء المحاولة في وقت لاحق",
+  "not_authorized_indicator_you_need_to_login_to_see_this_page": "لنتمكن من رؤية محتويات هذه الصفحة يتوجب عليك الدخول اولاً",
+  "not_authorized_indicator_login_register": "التسجيل/ الدخول",
+
+  "email": "البريد الألكتروني",
+  "name": "الأسم",
+  "age":"العمر",
+  "favorite_categories":"تصنيفات المفضل",
+  "password":"الرمز السري",
+  "already_have_an_account":"بالفعل لدي حساب",
+  "sign_Up":"تسجيل",
+  "login":"تسجيل الدخول",
+  "skip":"تخطي",
+  "new_rental":"إيجار جديد",
+  "trending_actors_on_this_week":"ممثلين اكثر شعبية",
+  "warning":"تحذير",
+  "warning_message":"هناك معلومات فارغة",
+  "ok":"موافق",
+  "born":"مكان الولادة",
+  "movies":"الأفلام",
+  "favorite":"المفضل",
+  "overview":"القصة",
+  "release_date":"يوم الاصدار",
+  "run_time":"مدة العرض",
+  "box_office":"شباك التذاكر",
+  "cast":"فريق التمثيل",
+  "recommended_movie":"افلام مقترح",
+  "write_your_comment_here":"اكتب رايك",
+  "comment":"تعليق",
+  "add_your_rating":"أضف تقييمك",
+  "add_comment":"أضف التعليق",
+  "logout":"تسجيل الخروج",
+  "show_about":"هل تحب مشاهدة الافلام؟ فقط باستخدام هاتفك الذكي واتصالك بالإنترنت ، يمكنك القيام بذلك. هناك الآلاف من الأفلام والبرامج التلفزيونية التي يمكنك العثور عليها على الويب ، ولكن من الصعب العثور على نظام بث موثوق به لا يقصفك بإعلانات أو روابط ضارة. لذا ، فإن أفضل ما يمكنك فعله هو استئجار فيلم حيث يمكنك اصطحاب جميع أفلامك المفضلة متى وأينما كنت.",
+  "show_other_comments":"أظهر التعليقات الأخرى"
+  
+  
+}

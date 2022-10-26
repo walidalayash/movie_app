@@ -1,0 +1,7 @@
+template-arb-file: intl_ar.arb
+output-localization-file: gallery_localizations.dart
+output-class: AppLocalizations
+untranslated-messages-file: 'untranslated.json'
+preferred-supported-locales:
+  - ar
+use-deferred-loading: true

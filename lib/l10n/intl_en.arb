@@ -1,0 +1,63 @@
+{
+  "@@locale": "en",
+  "pageHomeTitle": "مرحباً {firstName}",
+  "@pageHomeTitle": {
+    "description": "هذا فقط مجرد مثال لشرح قدرة الترجمة على وضع نصوصو بديلة ",
+    "placeholders": {
+      "firstName": {}
+    }
+  },
+  "home_view":"Home",
+  "main_view_movies": "Movies",
+  "main_view_actors": "Actors",
+  "main_view_profile": "Profile",
+
+  "main_view_news_requests": "Requests",
+  "about_app": "About App",
+  "settings": "Settings",
+  "version": "Version",
+  "about_developers": "About developers",
+  "sadeem_tech_co": "SadeemTech",
+  "empty_list": "Empty list",
+
+  "settings_view_notification": "Notifications",
+  "settings_view_about": "About",
+  "exception_indicator_try_again": "Try again",
+  "generic_error_indicator_error_while_fetching_data": "An error occurred while fetching data",
+
+  "no_connection_indicator_no_connection": "No connection",
+  "no_connection_indicator_try_again_later": "Please try again later",
+  "not_authorized_indicator_you_need_to_login_to_see_this_page": "To be able to see the contents of this page, you must be logged in",
+  "not_authorized_indicator_login_register": "Register/Login",
+
+  "email": "Email",
+  "name": "Name",
+  "age":"Age",
+  "favorite_categories":"Favorite Categories",
+  "password":"Password",
+  "already_have_an_account":"Alread have an account",
+  "sign_Up":"Sign Up",
+  "login":"Login",
+  "skip":"Skip",
+  "new_rental":"New rental",
+  "trending_actors_on_this_week":"Trending actors on this week",
+  "warning":"Warning",
+  "warning_message":"There is empty information",
+  "ok":"Ok",
+  "born":"Born",
+  "movies":"Movies",
+  "favorite":"Favorite",
+  "overview":"overview",
+  "release_date":"Release date",
+  "run_time":"Run time",
+  "box_office":"Box office",
+  "cast":"Cast",
+  "recommended_movie":"Recommended movie",
+  "write_your_comment_here":"Write your Comment here",
+  "comment":"Comment",
+  "add_your_rating":"Add your rating",
+  "add_comment":"Add comment",
+  "logout":"Logout",
+  "show_about":"Do you love watching movies? With just your smartphone and internet connection you can do so. There are thousands of movies and TV shows you can find on the web, but it’s hard to find a trusty streaming platform that doesn’t bombard you with ads or malicious links. So, the best thing you can do is rental movie  where you can take all your favorite movies whenever and wherever you are.",
+  "show_other_comments":"Show other comments"
+}
