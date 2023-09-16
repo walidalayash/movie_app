@@ -35,10 +35,10 @@ Based on my experience of building production ready app, this is my starter flut
   
  
  # Video 
-<img src="https://github.com/walidalayash/movie_app/assets/83910549/2f7f2e1d-d678-473d-8491-62ce75cca652" width="350" height="700">
+<img src="https://github.com/walidalayash/movie_app/assets/83910549/2f7f2e1d-d678-473d-8491-62ce75cca652" width="350" height="450">
 
 # Getting Started
 git clone https://github.com/walidalayash/movie_app
 
- # Api
+ # Api link
  https://smdb.sadeem-lab.com/api/v1/
