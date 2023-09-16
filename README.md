@@ -43,10 +43,10 @@ git clone https://github.com/walidalayash/movie_app
 `
 
 # Development Setup
-`
+
 flutter pub get__
 flutter run
-`
+
 
  # Api link
  https://smdb.sadeem-lab.com/api/v1/
