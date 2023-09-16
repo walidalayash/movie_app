@@ -44,7 +44,7 @@ git clone https://github.com/walidalayash/movie_app
 
 # Development Setup
 `
-flutter pub get<br/>
+flutter pub get__
 flutter run
 `
 
